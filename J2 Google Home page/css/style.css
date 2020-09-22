@@ -1,0 +1,117 @@
+/*navbar*/
+#navbar {
+  display: flex;
+   justify-content: flex-end;
+   flex-direction: space-around;
+}
+
+#gmail{
+
+        padding: 7px ;
+        text-decoration:none;
+        color: black;
+        margin-top: 10px;
+}
+
+#images{
+        padding: 7px ;
+        text-decoration:none;
+        color:black;
+        margin-top: 10px;
+}
+#application{
+
+        padding: 3px ;
+        text-decoration:none;
+        color: black;
+        margin-top:6px;
+        height: 38px;
+        width: 38px;
+}
+
+#connexion {
+        background-color: #058DEB;
+        color: white;
+        text-decoration: none;
+        height: 20px;
+        width: 73px;
+        border:#058DEB;
+        border-radius: 3px;
+        padding: 2px;
+        margin-top: 10px;
+}
+/*Main*/
+#recherche{
+    width: 480px;
+    height: 38px;
+    display:flex;
+    justify-content: center;
+    border-radius: 50px;
+}
+
+
+#main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+/*Footer*/
+#footer {
+  display: flex;
+   justify-content: center;
+   flex-direction: center;
+   position: absolute;
+   bottom:10px;
+   left:220px;
+}
+
+#pub{
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+
+#entreprise{
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+
+#about{
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+
+#how{
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+
+#consInfo{
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+
+#privacy{
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+
+#conditions{
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+
+#parametres{
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
